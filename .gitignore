@@ -1,0 +1,15 @@
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
+
+# Virtual Environment (Don't upload this!)
+abitress/
+venv/
+.env
+
+# Optional: If your model or data is huge (>100MB), uncomment lines below
+# data/stress_model.pth
+# data/training_data_fused.csv
